@@ -3,6 +3,9 @@ scripts
 
 A variety of useful scripts for the WebFilings development environment.
 
+Note: You can use brew to install terminal-notifier with the following command:
+```brew install terminal-notifier```
+
 
 dev_build.py
 -----------
